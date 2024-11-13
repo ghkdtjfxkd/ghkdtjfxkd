@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdtjfxkd&show_icons=true&theme=radical)
-[![https://solved.ac/profile/arcane_01](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={arcane_01})](https://solved.ac/{arcane_01})
