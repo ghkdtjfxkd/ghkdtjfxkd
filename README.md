@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdtjfxkd&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={arcane_01})](https://solved.ac/{arcane_01})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane_01)](https://solved.ac/arcane_01)
