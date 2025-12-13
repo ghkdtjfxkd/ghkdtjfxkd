@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdtjfxkd&show_icons=true&theme=gruvbox_light&commits_year=2025)<br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=arcane_01)](https://solved.ac/arcane_01)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdtjfxkd&layout=Demo&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdtjfxkd&layout=Demo&theme=gruvbox)
