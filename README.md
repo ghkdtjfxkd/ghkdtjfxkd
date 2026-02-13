@@ -62,10 +62,11 @@ I aim to build services that turn everyday inconveniences into better experience
 <hr> 
 
 <h4> Contact me </h4> 
-<a href=> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
-<a href="본인_링크드인_주소"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="https://idea9940.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
+<a href="www.linkedin.com/in/youngtak-son-5552a4394"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 
 <hr>
+<h4> Problem Solving </h4> 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=arcane_01)](https://solved.ac/arcane_01)
 
